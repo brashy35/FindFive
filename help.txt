@@ -1,1 +1,0 @@
-to run, just type 'npm run dev' and then copy the local address into a browser
